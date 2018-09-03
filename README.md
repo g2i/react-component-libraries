@@ -10,6 +10,8 @@ Carbon by IBM Watson: http://www.carbondesignsystem.com/
 
 Evergreen by Segment: https://evergreen.surge.sh/
 
+Cosmos by Auth0: https://auth0-cosmos.now.sh/docs/#/
+
 Ant by Alibaba: https://ant.design/docs/react/introduce
 
 Polaris by Shopify: https://polaris.shopify.com/ 
