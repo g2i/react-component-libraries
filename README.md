@@ -22,3 +22,5 @@ Rebass: https://jxnblk.com/rebass/
 
 Material UI: https://material-ui.com/
 
+----
+To learn more about G2i visit our [website](https://www.g2i.co/developers)!
